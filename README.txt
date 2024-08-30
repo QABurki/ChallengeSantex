@@ -3,3 +3,4 @@ PLAN DE PRUEBAS https://docs.google.com/spreadsheets/d/1hy95ep_LqU_hyRps1qq-tJyK
 TRELLO https://trello.com/b/zAD7dEJW/challenge-marcos-burki
 
 GIT HUB
+https://github.com/QABurki/ChallengeSantex.git
